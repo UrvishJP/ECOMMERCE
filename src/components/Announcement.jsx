@@ -12,7 +12,7 @@ const Container = styled.div`
 `;
 
 const Announcement = () => {
-  return <Container>Super Deal! Free Shipping on Order Over 100/-</Container>;
+  return <Container>Super Deal! Free Shipping on Order Over 399/-</Container>;
 };
 
 export default Announcement;
